@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,kali
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Me
-- 📫 How to reach me : VX:tinkle00  So Nice to See U!
+- 📫 How to reach me : VX: tinkle00       So Nice to See U!
 
 <!---
 llinggao/llinggao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
